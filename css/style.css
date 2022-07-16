@@ -1,7 +1,5 @@
 .body{
-    margin: auto;
-    max-width: 1600px;
-    justify-content: center;
+    margin: 0%;
 }
 .webstudio{
     font-family: 'Raleway';
@@ -188,6 +186,9 @@
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)),
         url("../images/img.bmp.jpg");
+        margin: auto;
+        max-width: 1600px;
+        justify-content: center;
 }
 .caption{
     font-family: 'Roboto';
